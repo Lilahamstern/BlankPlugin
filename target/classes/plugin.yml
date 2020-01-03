@@ -1,0 +1,8 @@
+main: net.hamsterapps.spigot.blankplugin.Main
+name: BlankPlugin
+version: 0.1
+
+commands:
+  blank:
+    usage: </command>
+    description: blank command bitch

@@ -1,8 +1,9 @@
-main: net.hamsterapps.spigot.blankplugin.Main
+main: net.hamsterapps.spigot.blankplugin.App
 name: BlankPlugin
 version: 0.1
+author: Lilahamstern
 
 commands:
   blank:
-    usage: </command>
-    description: blank command bitch
+    description: Marker command
+    usage: /blank
